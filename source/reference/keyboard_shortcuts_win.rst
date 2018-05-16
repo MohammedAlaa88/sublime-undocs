@@ -58,6 +58,8 @@ Editing
 | Ctrl + U        | soft undo; jumps to your last change before               |
 |                 | undoing change when repeated                              |
 +-----------------+-----------------------------------------------------------+
+| Tab             | completion and snippets in HTML img+press Tab= <img src="">|
++-----------------+-----------------------------------------------------------+
 | Alt + ⇧ +  W    | Wrap Selection in html tag                                |
 +-----------------+-----------------------------------------------------------+
 | Alt + .         | Close current html tag                                    |
